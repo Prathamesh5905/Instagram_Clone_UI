@@ -1,6 +1,6 @@
-# practice_widgets
+# Instagram User Interface
+The Flutter Project
 
-A new Flutter project.
+## Project Preview
 
-## Getting Started
 
